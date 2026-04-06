@@ -138,15 +138,15 @@ a {
 
 .brand-logo-icon {
   display: block;
-  width: 72px;
-  min-width: 72px;
-  object-fit: contain;
-  border-radius: 18px;
+  width: 76px;
+  min-width: 76px;
+  object-fit: cover;
+  border-radius: 22px;
   box-shadow: 0 14px 32px rgba(103, 232, 249, 0.18);
   border: 1px solid rgba(103, 232, 249, 0.24);
-  height: 72px;
-  padding: 8px;
-  background: rgba(4, 17, 24, 0.92);
+  height: 76px;
+  padding: 0;
+  background: transparent;
 }
 
 .brand-text {
@@ -1122,10 +1122,9 @@ a {
   }
 
   .brand-logo-icon {
-    width: 58px;
-    min-width: 58px;
-    height: 58px;
-    padding: 6px;
+    width: 60px;
+    min-width: 60px;
+    height: 60px;
   }
 
   .brand-text strong {
