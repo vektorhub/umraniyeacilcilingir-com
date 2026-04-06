@@ -36,11 +36,6 @@ document.querySelectorAll(".topbar").forEach((topbar) => {
   topbar.classList.add("has-site-menu");
 });
 
-document.querySelectorAll(".brand-logo-icon").forEach((logo) => {
-  logo.setAttribute("src", "/anahtar-evi-icon.png");
-  logo.setAttribute("alt", "Ümraniye Acil Çilingir logosu");
-});
-
 document.querySelectorAll('a[href^="#"]').forEach((anchor) => {
   anchor.addEventListener("click", (event) => {
     const targetId = anchor.getAttribute("href");
