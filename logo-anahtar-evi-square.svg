@@ -1,0 +1,18 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1024" height="1024" rx="180" fill="#120F0D"/>
+  <rect x="178" y="138" width="668" height="668" rx="140" fill="#191310" stroke="url(#paint0_linear)" stroke-width="10"/>
+  <circle cx="444" cy="358" r="92" stroke="#F4B400" stroke-width="34"/>
+  <rect x="530" y="320" width="188" height="70" rx="35" fill="#F4B400"/>
+  <rect x="626" y="300" width="50" height="114" rx="25" fill="#F4B400"/>
+  <rect x="640" y="388" width="42" height="204" rx="21" fill="#F4B400"/>
+  <rect x="640" y="478" width="118" height="34" rx="17" fill="#F4B400"/>
+  <rect x="640" y="546" width="84" height="34" rx="17" fill="#F4B400"/>
+  <text x="256" y="700" fill="#F7EBDD" font-family="Oswald, Arial, sans-serif" font-size="120" font-weight="700" letter-spacing="1.2">ANAHTAR</text>
+  <text x="370" y="806" fill="#F7EBDD" font-family="Oswald, Arial, sans-serif" font-size="120" font-weight="700" letter-spacing="1.2">EVİ</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="214" y1="174" x2="810" y2="770" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFCA42"/>
+      <stop offset="1" stop-color="#FF7A00"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,14 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="1200" rx="220" fill="#120F0D"/>
+  <rect x="180" y="180" width="840" height="840" rx="180" fill="#171310" stroke="#2A211B" stroke-width="8"/>
+  <text x="312" y="520" fill="#F7EBDD" font-family="Oswald, Arial, sans-serif" font-size="300" font-weight="700" letter-spacing="4">AE</text>
+  <rect x="316" y="580" width="568" height="8" rx="4" fill="url(#paint0_linear)"/>
+  <text x="260" y="700" fill="#F0AF1C" font-family="Oswald, Arial, sans-serif" font-size="110" font-weight="600" letter-spacing="3">ANAHTAR EVİ</text>
+  <text x="276" y="812" fill="#CBBBAA" font-family="Oswald, Arial, sans-serif" font-size="64" font-weight="600" letter-spacing="2">ÇİLİNGİR • ANAHTARCI</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="316" y1="584" x2="884" y2="584" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4B400"/>
+      <stop offset="1" stop-color="#FF7A00"/>
+    </linearGradient>
+  </defs>
+</svg>

@@ -1,0 +1,16 @@
+{
+  "name": "umraniyeacilcilingir.com",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "build": "echo static-site-ready",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "vercel": "^50.37.3"
+  }
+}
